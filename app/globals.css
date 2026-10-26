@@ -16,19 +16,19 @@
   --color-plum-100: #f4e1eb;
   --color-plum-50: #faeff5;
 
-  --color-pastel-bg: #fcfbcf;
-  --color-pastel-pink: #fccedb;
-  --color-pastel-rose: #f7b7cb;
-  --color-pastel-border: #eed6e2;
-  --color-pastel-badge: #fde2ea;
+  --color-pastel-bg: #FAF7F5;
+  --color-pastel-pink: #F5EBE8;
+  --color-pastel-rose: #ECCECB;
+  --color-pastel-border: #EBDCD7;
+  --color-pastel-badge: #FCEBEF;
   
-  --color-brand-pink: #d94b80;
-  --color-brand-deep: #2c151f;
+  --color-brand-pink: #D44976;
+  --color-brand-deep: #2C1820;
 }
 
 :root {
-  --background: #fcfbcf;
-  --foreground: #2c151f;
+  --background: #FAF7F5;
+  --foreground: #2C1820;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #fbf8d7;
+  background: #FAF7F5;
 }
 ::-webkit-scrollbar-thumb {
   background: #b07d9c;
